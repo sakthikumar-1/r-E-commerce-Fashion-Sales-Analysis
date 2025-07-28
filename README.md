@@ -1,4 +1,4 @@
-#  E-Commerce Sales Analysis Dashboard
+#  E-Commerce Fashion Sales Analysis Dashboard
 
 This project is a complete **E-commerce sales risk and performance analysis** using **Power BI**. It provides clear insights into customer behavior, sales trends, and business performance using visual storytelling.
 
